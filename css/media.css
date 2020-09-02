@@ -1,0 +1,368 @@
+
+@media (max-width: 575.98px) { 
+    header{
+       min-height: 45vh;
+    }
+    .navbar-light .navbar-toggler {
+        font-size: 18px;
+    }
+    .navbar-light .navbar-nav .nav-link:hover::before{
+        width: 4%;
+        left: 0;
+    }
+    .navbar-light .navbar-nav .nav-link:hover::after{
+        right: 91%;
+        width: 4%;
+    }
+    .hg h2{
+        font-size: 30px;
+    }
+    .btn-c{
+        margin-bottom: 25px;
+    }
+    .btn-c-one{
+        margin-bottom: 25px;
+    }
+    .product h3{
+        font-size: 13px;
+    }
+    .product h2{
+        font-size: 28px;
+    }
+    .product span{
+        margin: 20px 3px;
+    }
+    .i-content{
+        margin-top: 20px;
+    }
+    .i-content .icon-box .fa{
+        font-size: 26px;
+    }
+    .icon-content h4{
+       font-size: 20px;
+    }
+    .icon-content p{
+        font-size: 16px;
+    }
+    
+    .design-one h3{
+        margin-top: 30px;
+        font-size: 12px;
+    }
+    .design-one h2{
+        margin-top: 13px;
+        font-size: 28px;
+    }
+    .design-one p{
+        font-size: 16px;
+    }
+    .design-one ul li{
+        font-size: 16px;
+        line-height: 33px;
+    }
+    .design-two{
+        background-size: 280px;
+    }
+    .d-two h3{
+        font-size: 12px;
+    }
+    .d-two h2{
+        font-size: 28px;
+    }
+    .d-two p{
+        font-size: 16px;
+    }
+    
+    .slider-part{
+        min-height: 45vh;
+    }
+    .owl-carousel .item h4{
+        font-size: 20px;
+    }
+    .slider-content{
+        margin-top: 25px;
+    }
+    .slider-content img{
+        width: 40%;
+    }
+    .slider-content h5{
+        color: #fff;
+        font-size: 16px;
+    }
+    .slider-content h6{
+        color: #fff;
+        font-size: 17px;
+        font-weight: 700;
+    }
+    .last-c{
+        text-align: center;
+    }
+    .last-c h3{
+        font-size: 20px;
+    }
+    .last-c h3 span{
+        font-size: 20px;
+    }
+    .last-c button{
+        font-size: 14px;
+    }
+    .pricing-table{
+        margin-bottom: 20px;
+    }
+    .table-heading h2{
+        font-size: 23px;
+    }
+    .pt sup{
+        font-size: 28px;
+    }
+    .pt h2{
+        font-size: 50px;
+    }
+    .pt p{
+        font-size: 16px;
+    }
+    .pricing-details p{
+        font-size: 17px;
+    }
+    .btn-pricing{
+        padding: 6px 11px;
+        font-size: 13px;
+    }
+    .contact-content{
+        margin-bottom: 80%;
+    }
+    .contact-content i{
+        margin-bottom: 25px;
+    }
+    .contact-content h5{
+       margin-bottom: 45px;
+    }
+    .contact-input input{
+        height: 40px;
+        margin-bottom: 12px;
+        padding: 8px;
+        font-size: 14px;
+    }
+    textarea{
+        height: 140px;
+        font-size: 14px;
+    }
+    .submit-btn input{
+        padding: 6px 15px;
+        font-size: 14px;
+    }
+    
+ }
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    header{
+        min-height: 50vh;
+     }
+     .navbar-light .navbar-toggler {
+         font-size: 18px;
+     }
+     .navbar-light .navbar-nav .nav-link:hover::before{
+         width: 4%;
+         left: 0;
+     }
+     .navbar-light .navbar-nav .nav-link:hover::after{
+         right: 91%;
+         width: 4%;
+     }
+     .hg h2{
+        font-size: 30px;
+    }
+    .btn-c{
+        margin-bottom: 25px;
+    }
+    .btn-c-one{
+        margin-bottom: 25px;
+    }
+    .product span{
+        margin: 20px 3px;
+    }
+    .i-content{
+        margin-top: 20px;
+    }
+    .i-content .icon-box .fa{
+        font-size: 26px;
+    }
+    .icon-content h4{
+       font-size: 20px;
+    }
+    .icon-content p{
+        font-size: 16px;
+    }
+    .design-one h3{
+        margin-top: 30px;
+        font-size: 12px;
+    }
+    .design-one h2{
+        margin-top: 13px;
+        font-size: 28px;
+    }
+    .design-one p{
+        font-size: 16px;
+    }
+    .design-one ul li{
+        font-size: 16px;
+        line-height: 33px;
+    }
+    .design-two{
+        background-size: 400px;
+    }
+    .d-two h3{
+        font-size: 12px;
+    }
+    .d-two h2{
+        font-size: 28px;
+    }
+    .d-two p{
+        font-size: 16px;
+    }
+     .slider-part{
+         min-height: 45vh;
+     }
+     .last-c{
+        text-align: center;
+    }
+     .last-c h3{
+         font-size: 20px;
+     }
+     .last-c h3 span{
+         font-size: 20px;
+     }
+     .last-c button{
+         font-size: 14px;
+         margin-top: 10px;
+     }
+     .pricing-table{
+        margin-bottom: 20px;
+    }
+     .table-heading h2{
+        font-size: 23px;
+    }
+    .pt sup{
+        font-size: 28px;
+    }
+    .pt h2{
+        font-size: 50px;
+    }
+    .pt p{
+        font-size: 16px;
+    }
+    .pricing-details p{
+        font-size: 17px;
+    }
+    .btn-pricing{
+        font-size: 16px;
+    }
+     .contact-content i{
+        margin-bottom: 25px;
+    }
+    .contact-content h5{
+       margin-bottom: 45px;
+    }
+    .contact-content{
+        
+        margin-bottom: 80%;
+    }
+    .contact-content i{
+        margin-bottom: 25px;
+    }
+    .contact-content h5{
+       margin-bottom: 45px;
+    }
+    .contact-input input{
+        height: 40px;
+        margin-bottom: 12px;
+        padding: 8px;
+        font-size: 14px;
+    }
+    textarea{
+        height: 140px;
+        font-size: 14px;
+    }
+    .submit-btn input{
+        padding: 6px 15px;
+        font-size: 14px;
+    }
+ }
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    header{
+        min-height: 50vh;
+     }
+     .navbar-light .navbar-toggler {
+         font-size: 19px;
+     }
+     .navbar-light .navbar-nav .nav-link:hover::before{
+         width: 4%;
+         left: 0;
+     }
+     .navbar-light .navbar-nav .nav-link:hover::after{
+         right: 91%;
+         width: 4%;
+     }
+     .hg h2{
+        font-size: 33px;
+    }
+    .btn-c{
+        margin-bottom: 25px;
+    }
+    .btn-c-one{
+        margin-bottom: 25px;
+    }
+    .i-content{
+        margin-top: 20px;
+    }
+    .design-two{
+        background-size: 500px;
+    }
+    .slider-part{
+         min-height: 45vh;
+     }
+     .last-c{
+        text-align: center;
+    }
+    .last-c button{
+        margin-top: 10px;
+    }
+    .table-heading h2{
+        
+        font-size: 24px;
+    }
+    .pt sup{
+        font-size: 28px;
+    }
+    .pt h2{
+        font-size: 50px;
+    }
+    .pt p{
+        font-size: 17px;
+    }
+    .pricing-details p{
+        font-size: 18px;
+    }
+    .btn-pricing{
+        font-size: 18px;
+    }
+ }
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    header{
+        min-height: 60vh;
+     }
+     .btn-c{
+        margin-bottom: 25px;
+    }
+    .btn-c-one{
+        margin-bottom: 25px;
+    }
+ }
+
+
+@media (min-width: 1200px) {  }
